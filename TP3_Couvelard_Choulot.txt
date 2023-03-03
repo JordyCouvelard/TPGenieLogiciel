@@ -1,1 +1,2 @@
 Couvelard Jordy ; Choulot Léa
+Le fichier a été ajouté à la branche mon_fichier et commit cette branche aussi, c'est pour ça qu'on ne le voit pas dans la branche master
